@@ -1,4 +1,4 @@
-![Dancing](wesleysmyth/dancing.gif)
+![Dancing](wesleysmyth/wesleysmyth/blob/master/dancing.gif)
 <!--
 **wesleysmyth/wesleysmyth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
