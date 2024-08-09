@@ -1,5 +1,5 @@
 
-<!-- <img align="center" src="https://github.com/wesleysmyth/wesleysmyth/blob/master/dancing.gif?raw=true" alt="Welcome to my alt text" width='100%'> -->
+<img align="center" src="https://github.com/wesleysmyth/wesleysmyth/blob/master/name.png?raw=true" alt="Welcome to my alt text" width='100%'>
 
 <!--
 **wesleysmyth/wesleysmyth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
